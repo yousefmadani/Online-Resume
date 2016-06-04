@@ -24,13 +24,13 @@ var education = {   
         "name": "University of Kent",
         "location": "Canterbury, UK",
         "degree":"BSc",
-        "major": "Electronics and Communications Engineering",
+        "major": "Electronic and Communications Engineering",
         "dates": "2008-2012"      
     }, {         
         "name": "University of Hertfordshire",
         "degree": "MSc",
         "location": "Hatfield, UK",
-        "major": "Broadband Telecommunications Engineering",
+        "major": "Broadband Telecommunication Networks",
         "dates": "2015-2016"      
     }   ],
     "onlineCourses": [      {         
